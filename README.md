@@ -54,11 +54,3 @@ The notebook splits the data into training and testing sets, fits a Random Fores
 This project is open-source and free to use for educational and non-commercial purposes.
 
 ---
-
-For questions or contributions, please open an issue or submit a pull request.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/65523124/eaa1d675-d352-4988-87bf-8c39bb69d93f/Churn_Prediction_Model.ipynb
-
----
-Answer from Perplexity: pplx.ai/share
